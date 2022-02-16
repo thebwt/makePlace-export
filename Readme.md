@@ -1,4 +1,4 @@
-#Makeplace list exporter
+# Makeplace list exporter
 Howdy! 
 This tool is for exporting Makeplace savefiles as lists into external tools. Right now it can create a garlandtools group and a teamcraft list.
 
