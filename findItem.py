@@ -25,7 +25,7 @@ for i in furn:
 #I don't care about recipe ids, so just need to do the things
 parsedLine = ""
 for i in goods.keys():
-    parsedLine += ("%i;null,%i;"%(i,goods[i]))
+    parsedLine += ("%i,null,%i;"%(i,goods[i]))
 parsedLine = parsedLine[:-1]
 
 urlsafe_data = base64.urlsafe_b64encode(parsedLine.encode('utf-8'))
