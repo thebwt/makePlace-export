@@ -30,6 +30,14 @@ for i in furn:
         goods[i["itemId"]]+=1
     else:
         goods[i["itemId"]]=1
+        
+#Grab the Exterior Furniture
+furn = save["exteriorFurniture"]
+for i in furn:
+    if i["itemId"] in goods:
+        goods[i["itemId"]]+=1
+    else:
+        goods[i["itemId"]]=1    
 
 #build string
 #String format is  20545,null,3;17962,32308,1;20247,null,1
