@@ -1,3 +1,7 @@
+# Online version now available!
+check out https://makeplace-export.web.app - It's only got teamcraft stuff on it, but I'm pretty sure that's all ya'll used anyways.
+No more learning to use python on the console!
+
 # Makeplace list exporter
 Howdy! 
 This tool is for exporting Makeplace savefiles as lists into external tools. Right now it can create a garlandtools group and a teamcraft list.
