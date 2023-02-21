@@ -1,4 +1,4 @@
-# Online version now available!
+# Online version now available - This is now deprecated!
 check out https://makeplace-export.web.app - It's only got teamcraft stuff on it, but I'm pretty sure that's all ya'll used anyways.
 No more learning to use python on the console!
 
